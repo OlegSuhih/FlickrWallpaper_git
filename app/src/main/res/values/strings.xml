@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrWallpaper</string>
+    <string name="item_main_title">Главная</string>
+    <string name="item_favourite_title">Избранное</string>
+    <string name="button_wallpaper">на обои</string>
+    <string name="text_no_net">Проверьте соединение</string>
+    <string name="button_exit">Выход</string>
+</resources>
